@@ -1,3 +1,5 @@
+#arc-reactor
+
 Arduino code, PCB schematic, and assembly drawing for DIY 3D printed arc reactor featured in Super Make Something Episode 15
 
 Instructions for this project can be found here: https://youtu.be/QTlXr9m182c
